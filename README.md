@@ -59,8 +59,8 @@
 ### 📬 Reach Me
 
 <p>
-  <a href="mailto:chandru.d@zohocorp.com">
-    <img src="https://img.shields.io/badge/Email-chandru.d@zohocorp.com-fc6d26?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:chandru.duraiyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chandru.duraiyan@gmail.com-fc6d26?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/chandru-duraiyan">
