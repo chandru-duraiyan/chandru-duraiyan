@@ -16,7 +16,6 @@
 
 - 💼 Working at **Zoho** on the **ZohoBooks / Zoho Finance** platform
 - 🛠️ I build internal tooling to streamline developer workflows
-- 🔍 Currently focused on **GitLab MR review automation**
 - ⚡ I enjoy turning repetitive dev tasks into one-click solutions
 
 ---
